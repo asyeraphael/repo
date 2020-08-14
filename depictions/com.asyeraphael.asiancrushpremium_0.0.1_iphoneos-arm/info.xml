@@ -1,0 +1,24 @@
+<package>
+	<id>com.asyeraphael.asiancrushpremium.deb</id>
+	<name>AsianCruch Premium</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AsianCrush Premium features unlocked!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>https://asyeraphael.github.io/repo/depictions/?p=[com.asyeraphael.asiancrushpremium.deb]</links>
+</package>
