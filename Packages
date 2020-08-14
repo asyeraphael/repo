@@ -12,3 +12,16 @@ Name: AsianCrush Premium
 Author: asyeraphael <asyer.raphael@gmail.com>
 Depiction: https://asyeraphael.github.io/repo/depictions/?p=com.asyeraphael.asiancrushpremium.deb
 
+Package: com.asyeraphael.enablebatterieswidget
+Version: 0.0.1
+Section: Tweaks
+Maintainer: asyeraphael <asyer.raphael@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.asyeraphael.enablebatterieswidget.deb
+Size: 2786
+MD5sum: 13c81d78d868030c3f8edfd6cc542d62
+Description: Enables the Batteries Widget in the Notification Center/Spotlight without an Apple watch Paired.
+Name: Batteries Widget
+Author: asyeraphael <asyer.raphael@gmail.com>
+Depiction: https://asyeraphael.github.io/repo/depictions/?p=com.asyeraphael.enablebatterieswidget.deb
