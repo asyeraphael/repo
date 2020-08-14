@@ -25,3 +25,17 @@ Description: Enables the Batteries Widget in the Notification Center/Spotlight w
 Name: Batteries Widget
 Author: asyeraphael <asyer.raphael@gmail.com>
 Depiction: https://asyeraphael.github.io/repo/depictions/?p=com.asyeraphael.enablebatterieswidget.deb
+
+Package: com.asyeraphael.zoombypass
+Version: 0.0.1
+Section: Tweaks
+Maintainer: asyeraphael <asyer.raphael@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.asyeraphael.zoombypass.deb
+Size: 2698
+MD5sum: 52d8761f3bd368fc7c5a4377a7e1376b
+Description: Zoom Jailbreak Detection Bypass!
+Name: Zoom Bypass
+Author: asyeraphael <asyer.raphael@gmail.com>
+Depiction: https://asyeraphael.github.io/repo/depictions/?p=com.asyeraphael.zoombypass.deb
