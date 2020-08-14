@@ -39,3 +39,17 @@ Description: Zoom Jailbreak Detection Bypass!
 Name: Zoom Bypass
 Author: asyeraphael <asyer.raphael@gmail.com>
 Depiction: https://asyeraphael.github.io/repo/depictions/?p=com.asyeraphael.zoombypass.deb
+
+Package: com.asyeraphael.normalbattery
+Version: 0.0.1
+Section: Tweaks
+Maintainer: asyeraphael <asyer.raphael@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.asyeraphael.normalbattery.deb
+Size: 2846
+MD5sum: 4dfa372e11411e3e9b5f00515aa5a47e
+Description: Normal battery color in Low Power Mode.
+Name: Normal Battery
+Author: asyeraphael <asyer.raphael@gmail.com>
+Depiction: https://asyeraphael.github.io/repo/depictions/?p=com.asyeraphael.normalbattery.deb
